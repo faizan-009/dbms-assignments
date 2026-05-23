@@ -13,5 +13,5 @@
 ## Tools Used
 
 * MySQL 
-* TablePlus (MacBook M4)
+* MacBook M4
 * GitHub
